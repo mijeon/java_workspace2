@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=17
+org.eclipse.jdt.core.compiler.compliance=17
+org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+org.eclipse.jdt.core.compiler.release=enabled
+org.eclipse.jdt.core.compiler.source=17
+org.eclipse.jdt.core.userLibrary.JDBC\ Driver=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="/ThreadApp/lib/ojdbc6.jar"/>\r\n\t<archive path\="/ThreadApp/lib/mysql-connector-java-5.1.49.jar"/>\r\n</userlibrary>\r\n
+org.eclipse.jdt.core.userLibrary.natworkapp\ lib=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="/NetworkApp/lib/json-simple-1.1.1.jar"/>\r\n</userlibrary>\r\n
+org.eclipse.jdt.core.userLibrary.project1129\ lib=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="/project1129/lib/ojdbc6.jar"/>\r\n\t<archive path\="/project1129/lib/javax.activation-1.2.0.jar"/>\r\n\t<archive path\="/project1129/lib/javax.mail-1.6.2.jar"/>\r\n</userlibrary>\r\n
+org.eclipse.jdt.core.userLibrary.shopClient\ lib=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="/ShopClient/lib/ojdbc6.jar"/>\r\n</userlibrary>\r\n
+org.eclipse.jdt.core.userLibrary.shopadmin\ lib=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="/ShopAdmin/lib/ojdbc6.jar"/>\r\n</userlibrary>\r\n

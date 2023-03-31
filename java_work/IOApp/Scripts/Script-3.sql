@@ -1,0 +1,1 @@
+select d.deptno as deptno, dname, loc, empno, ename, sal, job from emp e inner join dept d on e.deptno=d.deptno

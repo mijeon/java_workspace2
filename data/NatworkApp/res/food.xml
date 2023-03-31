@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foodList>
+	<food>					   
+		<name>부대찌개</name>
+		<price>18000</price>
+	</food>
+
+	<food>					   
+		<name>족발</name>
+		<price>13000</price>
+	</food>
+	<food>					   
+		<name>보쌈</name>
+		<price>2000</price>
+	</food>
+</foodList>

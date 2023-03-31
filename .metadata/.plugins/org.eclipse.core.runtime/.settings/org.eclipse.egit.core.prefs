@@ -1,0 +1,8 @@
+GitRepositoriesView.GitDirectories=C\:\\java_workspace2\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;
+RepositoryGroups.uuids=
+RepositorySearchDialogSearchPath=C\:\\java_workspace2\\.git
+core_git_servers=
+core_preferredMergeStrategy=jgit-default-mergeStrategy
+core_ssh_default_agent=\\\\.\\pageant
+eclipse.preferences.version=1
